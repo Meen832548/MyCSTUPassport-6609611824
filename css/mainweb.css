@@ -1,0 +1,31 @@
+<style>
+    #bordertt2{
+        border-radius : 25px;
+        padding : 10px;
+        background-color: rgb(87, 191, 247);
+    }
+    #kk{
+        flex: 50%; border: 10px 
+        solid rgba(219, 202, 202, 0.416); 
+        border-radius: 10px;
+    }
+    video {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #block1{
+        border: 20px solid 
+        rgb(86, 250, 217); 
+        padding: 40px; 
+        border-radius: px; 
+        background-color: rgb(198, 240, 252);
+    }
+    #block2{
+        border: 20px solid 
+        rgb(194, 247, 108); 
+        padding: 40px; 
+        border-radius: px; 
+        background-color: rgb(198, 252, 234);
+    }
+</style>
